@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/github/license/1lusca/consulta-de-todos">
+  <img src="https://img.shields.io/github/license/1lusca/Consulta-de-Todos">
   <img src="https://img.shields.io/github/followers/1lusca.svg?style=social&label=Follow&maxAge=2592000">
 </p>
 
