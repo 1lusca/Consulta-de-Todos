@@ -11,14 +11,13 @@
 
 ## 🤑 Consulta de Todos 🤑
 
-O aplicativo de Receitas Japonesas é uma ferramenta completa para os amantes da culinária japonesa. Com uma ampla variedade de receitas autênticas, o aplicativo permite que os usuários descubram e preparem pratos tradicionais japoneses diretamente em suas cozinhas.
+O aplicativo Consulta de Todos é sua ferramenta abrangente para acessar informações sobre os diversos benefícios sociais disponíveis no Brasil. Projetado para simplificar e agilizar o processo de busca e compreensão dos benefícios governamentais, este aplicativo oferece uma interface intuitiva e fácil de usar.
 
 ### Funcionalidades 🔨
-1. **Lista de Ingredientes:** Cada receita é acompanhada por uma lista detalhada de ingredientes necessários para preparar o prato japonês. Os usuários podem visualizar os ingredientes necessários antes de iniciar a preparação, permitindo que verifiquem se possuem todos os itens necessários.
-2. **Instruções de Preparo:** O aplicativo fornece instruções passo a passo sobre como preparar cada receita japonesa. As instruções são claras e concisas, tornando o processo de preparação acessível até mesmo para os iniciantes na cozinha japonesa. Os usuários podem acompanhar facilmente cada etapa do processo de preparo.
-3. **Tempo de Preparo:** Cada receita inclui uma estimativa do tempo necessário para preparar o prato. Essa informação é útil para os usuários planejarem suas refeições e gerenciarem seu tempo de forma eficiente.
-4. **Nível de Dificuldade:** O aplicativo classifica cada receita com base em seu nível de dificuldade, fornecendo aos usuários uma indicação de quão desafiador será preparar o prato. Essa classificação ajuda os usuários a selecionar receitas adequadas ao seu nível de habilidade na cozinha.
-5. **Imagem da Receita:** Cada receita é acompanhada de uma imagem atraente do prato finalizado. Isso permite que os usuários visualizem como a receita deve ser apresentada e sirva como uma fonte de inspiração para a preparação.
+1. **Pesquisa Detalhada:** Explore uma extensa lista de benefícios sociais, desde programas de assistência financeira até cuidados de saúde e educação.
+2. **Elegibilidade Personalizada:** Responda a algumas perguntas simples e o aplicativo fornecerá uma análise personalizada, indicando os benefícios para os quais você pode ser elegível.
+3. **Atualizações em Tempo Real:** Mantenha-se informado sobre mudanças nas políticas e novos benefícios lançados pelo governo através da seção de notícias, garantindo que você esteja sempre atualizado.
+4. **Notificações Personalizadas:**  Receba alertas sobre datas importantes, prazos de inscrição e quaisquer atualizações relevantes para garantir que você não perca nenhum benefício ao qual tem direito.
 
 ##
 
